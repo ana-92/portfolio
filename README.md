@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ana's Personal Portfolio
+
+![Project Banner](/images/banner.png)
+
+## Overview
+
+Welcome to Ana Izaguirre's Developer Portfolio. 
+
+This portfolio serves as a showcase of my web development projects and skills. Whether you're an employer looking for a talented developer, a fellow coder interested in collaboration, or simply someone curious about my work, you'll find a collection of projects that highlight my expertise.
+
+My goal is to continually expand my skillset, and make a meaningful impact in the world of web development. I'm excited to share my journey and the projects that represent my unique approach to coding.
+
+Feel free to explore my portfolio to see my work, and don't hesitate to get in touch if you have any questions or opportunities for collaboration.
+
+
+## Demo
+
+Link to the live demo on GitHub Pages: [Demo Link](https://ana-92.github.io/portfolio)
+
+## Table of Contents
+
+- [Ana's Personal Portfolio](#anas-personal-portfolio)
+  - [Overview](#overview)
+  - [Demo](#demo)
+  - [Table of Contents](#table-of-contents)
+  - [Technologies Used](#technologies-used)
+  - [Getting Started](#getting-started)
+
+## Technologies Used
+
+In the development of this portfolio, I utilized the following technologies and tools:
+
+- [Next.js](https://nextjs.org/): A popular React framework for building server-rendered, SEO-friendly web applications.
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces, which forms the foundation of this portfolio.
+- [GitHub Pages](https://pages.github.com/): The hosting service that allows me to deploy and showcase this portfolio on the web.
+
+These technologies, in combination, enable me to create a fast, interactive, and highly customizable developer portfolio.
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+   ```bash
+   git clone https://github.com/ana-92/portfolio.git
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+2. Install dependencies:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+   ```bash
+   cd portfolio
+   npm install
+   ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+3. Run development server:
+   
+    ```bash
+    npm run dev
 
-## Learn More
+   ```
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
