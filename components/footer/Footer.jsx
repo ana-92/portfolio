@@ -12,9 +12,8 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              ib-themes
             </a>
-            . All rights reserved.
+            All rights reserved.
           </p>
         </div>
       </div>

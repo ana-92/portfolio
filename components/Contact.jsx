@@ -1,7 +1,9 @@
+import "react-toastify/dist/ReactToastify.css";
+
 import React, { useRef } from "react";
+
 import emailjs from "@emailjs/browser";
 import { toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 
 const Contact = () => {
   const form = useRef();
@@ -17,7 +19,6 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          console.log(result);
           toast.success("Message Sent Successfully!", {
             position: "top-right",
             autoClose: 2000,
