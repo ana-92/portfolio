@@ -74,8 +74,7 @@ const EdinaHomeSidebar = () => {
           <div className="edina_tm_title">
             <h3>Portfolio</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
+              UNDER CONSTRUCTION
             </p>
           </div>
           {/* End edian_tm_title */}
@@ -87,11 +86,7 @@ const EdinaHomeSidebar = () => {
       <div className="edina_tm_testimonials" id="testimonial">
         <div className="container">
           <div className="edina_tm_title">
-            <h3>Testimonials</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-              ipsum sit nibh amet egestas tellus.
-            </p>
+            <h3>Recommendations</h3>
           </div>
           {/* End edian_tm_title */}
           <div className="list ">
@@ -108,7 +103,7 @@ const EdinaHomeSidebar = () => {
           <div className="edina_tm_title">
             <h3>Contact</h3>
             <p>
-            Thank you for taking the time to explore my portfolio. If you have any questions, or inquiries, I'd love to hear from you. 
+            Thank you for taking the time to explore my portfolio. If you have any questions, or inquiries, I would love to hear from you. 
             Please feel free to get in touch using the contact information below:
             </p>
           </div>
