@@ -1,5 +1,6 @@
 # Ana's Personal Portfolio
 
+![1d231b14-80f0-4339-b686-9a514723bbc3](https://github.com/ana-92/portfolio/assets/11369397/150f30c5-560d-4fee-88cb-76828ae34421)
 
 ## Overview
 
