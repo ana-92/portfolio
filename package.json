@@ -1,0 +1,32 @@
+{
+  "name": "edina-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.9.1",
+    "aos": "^2.3.4",
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.0.6",
+    "next": "13.0.6",
+    "react": "18.2.0",
+    "react-animated-cursor": "^2.5.2",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-modal": "^3.16.1",
+    "react-parallax-tilt": "^1.7.75",
+    "react-scrollspy-nav": "^1.3.0",
+    "react-slick": "^0.29.0",
+    "react-toastify": "^9.1.1",
+    "react-tooltip": "^4.2.21",
+    "react-transition-group": "^4.4.5",
+    "react-typed": "^1.2.0",
+    "sass": "^1.56.1",
+    "slick-carousel": "^1.8.1"
+  }
+}

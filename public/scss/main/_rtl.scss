@@ -1,0 +1,137 @@
+// rtl css
+.rtl {
+    direction: rtl;
+    .header-area {
+        direction: ltr;
+    }
+
+    .typer-toper > span {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+    }
+    .edina_tm_sidebar {
+        left: auto;
+        right: 0;
+        @media screen and (max-width: 1199px) {
+            right: auto;
+            left: 0;
+        }
+    }
+    .edina_tm_contact .mainpart .left {
+        margin-right: 0;
+        margin-left: 30px;
+    }
+    .edina_tm_contact .right {
+        margin-left: 0;
+        margin-right: 30px;
+        @media screen and (max-width: 1040px) {
+            margin-right: 0;
+        }
+    }
+    .edina_tm_mainpart {
+        float: right;
+        padding-left: 0;
+        padding-right: 320px;
+
+        @media screen and (min-width: 1200px) and (max-width: 1500px) {
+            padding-right: 288px;
+        }
+        @media screen and (max-width: 1199px) {
+            padding-right: 0;
+        }
+    }
+    .theme-switcher-label {
+        left: auto;
+        right: 250px;
+        @media screen and (min-width: 1200px) and (max-width: 1500px) {
+            right: 225px;
+        }
+        @media screen and (max-width: 1199px) {
+            padding-right: 0;
+            right: 80px;
+        }
+    }
+    .edina_tm_sidebar .menu ul li .svg {
+        margin-right: 0 !important;
+        margin-left: 15px;
+    }
+    .edina_tm_sidebar .short {
+        padding-left: 0;
+        padding-right: 13px;
+    }
+    .edina_tm_contact .content {
+        padding-left: 0;
+        padding-right: 15px;
+    }
+    .edina_tm_modalbox .in_list ul li:before {
+        left: auto;
+        right: 0px;
+    }
+    .edina_tm_modalbox .in_list ul li {
+        padding-left: 0;
+        padding-right: 20px;
+    }
+    .edina_tm_about .rightpart {
+        padding-left: 0;
+        padding-right: 200px;
+        @media (max-width: 1600px) {
+            padding-right: 120px;
+        }
+        @media (max-width: 1040px) {
+            padding-right: 0;
+        }
+    }
+    .edina_tm_about .experience {
+        left: auto;
+        right: -50px;
+        @media (max-width: 1040px) {
+            right: 0;
+        }
+    }
+    .edina_tm_contact .right .google-map {
+        @media (max-width: 1199px) {
+            height: 100%;
+        }
+        @media (max-width: 1024px) {
+            height: 350px;
+        }
+    }
+    .edina_tm_testimonials .list ul li .list_inner {
+        direction: rtl;
+    }
+    .edina_tm_testimonials .list .short {
+        padding-left: 0;
+        padding-right: 30px;
+    }
+    .leftpart .wrapper {
+        display: flex;
+    }
+    .edina_tm_services ul li .learn_more span {
+        margin-left: 0;
+        margin-right: 14px;
+    }
+    .achievements-wrapper .box-stats p {
+        padding-left: 0;
+        padding-right: 45px;
+    }
+    .achievements-wrapper .box-stats p::before {
+        left: auto;
+        right: 0;
+    }
+    .resume-box li {
+        padding: 0 60px 0 20px;
+    }
+    .edina_tm_modalbox .main_content .quotebox p {
+        padding-left: 0;
+        padding-right: 30px;
+    }
+    .edina_tm_modalbox .main_content .quotebox p {
+        border-left: 0;
+        border-right: 2px solid #1a1a1a;
+    }
+    .scroll_up {
+        right: auto;
+        left: 15px;
+    }
+}
