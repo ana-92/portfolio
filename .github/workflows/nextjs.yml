@@ -1,7 +1,6 @@
 name: Deploy Portfolio site to Pages
 
 on:
-
   push:
     branches: ["dev"]
   workflow_dispatch:
