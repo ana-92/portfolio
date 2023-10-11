@@ -6,8 +6,8 @@ import sidebarContent from "../../data/sidebar";
 
 // sidebar footer bottom content
 const sidebarFooterContent = {
-  name: "Ana",
-  email: "ana.izaguirre@gmail.com",
+  name: "Ana Izaguirre",
+  email: "",
   emailRef: "ana.izaguirrematamoros@gmail.com",
 };
 
@@ -42,10 +42,8 @@ const Sidebar = () => {
               scrollTargetIds={[
                 "home",
                 "about",
-                "service",
                 "portfolio",
                 "testimonial",
-                "blog",
                 "contact",
               ]}
               activeNavClass="active"

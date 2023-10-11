@@ -7,10 +7,7 @@ const Address = () => {
       info: (
         <>
           <li>
-            <a href="Tel: +452 666 386">+452 666 386</a>
-          </li>
-          <li>
-            <a href="Tel: +465 562 226">+465 562 226</a>
+            <a href="Tel: +506 72055088">+506 72055088</a>
           </li>
         </>
       ),
@@ -22,12 +19,10 @@ const Address = () => {
       name: "Email",
       info: (
         <>
-          <li>
-            <a href="mailto:ib-themes21@gmail.com">support@gmail.com</a>
+          <li className="contact-link">
+            <a href="mailto:ib-themes21@gmail.com">ana.izaguirrematamoros@gmail.com</a>
           </li>
-          <li>
-            <a href="mailto:ib-themes21@gmail.com">example@support.com</a>
-          </li>
+
         </>
       ),
       animDelay: "100",
@@ -40,9 +35,7 @@ const Address = () => {
         <>
           <li>
             <p>
-              Envato 121 King St,
-              <br />
-              Melbourne, Australia
+              Remote
             </p>
           </li>
         </>
