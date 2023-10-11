@@ -1,6 +1,5 @@
 # Ana's Personal Portfolio
 
-![Project Banner](/images/banner.png)
 
 ## Overview
 
