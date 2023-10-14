@@ -1,23 +1,26 @@
 module.exports = [
   {
-    year: "2018 - Present",
-    position: " Web Developer",
-    compnayName: "Envato",
-    details: `Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-            adipisicing elit`,
+    year: "2021 - Present",
+    position: "Software Engineer",
+    compnayName: "Intel",
+    details: `I led and mentored new members, ensuring smooth development operation. I collaborated with QA for testing, sought skill enhancement, and thrived in an Agile environment.`,
   },
   {
-    year: "2013 - 2018",
-    position: "UI/UX Designer",
-    compnayName: "Themeforest",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-            elit, tempor incididunt`,
+    year: "2020 - 2021",
+    position: "Software Engineer",
+    compnayName: "10Pearls LATAM",
+    details: ``,
   },
   {
-    year: "2005 - 2013",
-    position: "Consultant",
-    compnayName: "Videohive",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-            elit, sed do eiusmod tempor duntt`,
+    year: "2018 - 2020",
+    position: "Web Software Engineer",
+    compnayName: "Laurate Education",
+    details: ``,
+  },
+  {
+    year: "2015 - 2018",
+    position: "Software Engineer",
+    compnayName: "Agile Solutions",
+    details: ``,
   },
 ];
