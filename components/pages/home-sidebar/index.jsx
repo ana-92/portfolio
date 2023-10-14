@@ -15,6 +15,15 @@ const EdinaHomeSidebar = () => {
 
   useEffect(() => {
     document.querySelector("body").classList.remove("rtl");
+
+    if (isDark) {
+      document.querySelector("body").classList.add("theme-dark");
+      document.querySelector("body").classList.remove("theme-light");
+    }
+    else {
+      document.querySelector("body").classList.add("theme-light");
+      document.querySelector("body").classList.remove("theme-dark");
+    }
   }, []);
 
   const handleLabelClick = () => {
@@ -103,8 +112,8 @@ const EdinaHomeSidebar = () => {
           <div className="edina_tm_title">
             <h3>Contact</h3>
             <p>
-            Thank you for taking the time to explore my portfolio. If you have any questions, or inquiries, I would love to hear from you. 
-            Please feel free to get in touch using the contact information below:
+              Thank you for taking the time to explore my portfolio. If you have any questions, or inquiries, I would love to hear from you.
+              Please feel free to get in touch using the contact information below:
             </p>
           </div>
           <div className="extra_info">
