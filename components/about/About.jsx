@@ -30,13 +30,13 @@ const About = () => {
                 Hi, Im <span>Ana Izaguirre </span>
               </h3>
               <p>
-               Software Engineer with MERN stack and leadership experience.
-               I excel in delivering high-quality code in fast-paced environments and thrive on both optimizing existing code and creating innovative solutions from scratch. 
-               My enduring passion for technology drives me to continually learn and grow.
+                Software Engineer with MERN stack and leadership experience.
+                I excel in delivering high-quality code in fast-paced environments and thrive on both optimizing existing code and creating innovative solutions from scratch.
+                My enduring passion for technology drives me to continually learn and grow.
               </p>
             </div>
             <div className="my_skills">
-              <h3 className="title">What is my skill level?</h3>
+              <h3 className="title">Skills</h3>
               <p className="desc">
               </p>
               <div className="wrapper">
