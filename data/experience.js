@@ -3,7 +3,7 @@ module.exports = [
     year: "2021 - Present",
     position: "Software Engineer",
     compnayName: "Intel",
-    details: `I led and mentored new members, ensuring smooth development operation. I collaborated with QA for testing, sought skill enhancement, and thrived in an Agile environment.`,
+    details: ``,
   },
   {
     year: "2020 - 2021",
