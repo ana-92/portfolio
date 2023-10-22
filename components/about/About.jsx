@@ -97,7 +97,7 @@ const About = () => {
       >
         <div className="edina_tm_modalbox">
           <button className="close-modal" onClick={toggleModalOne}>
-            <img src="/img/svg/cancel.svg" alt="close icon" />
+            <img src="/img/svg/cancel.png" alt="close icon" />
           </button>
           {/* End close icon */}
 
