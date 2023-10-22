@@ -1,6 +1,8 @@
+import Image from "next/image";
 import Modal from "react-modal";
 import ModalContent from "./modal/ModalContent";
 import Skills from "./Skills";
+import cancelIcon from "../../public/img/svg/cancel.svg";
 import { useState } from "react";
 
 Modal.setAppElement("#__next");
@@ -97,7 +99,7 @@ const About = () => {
       >
         <div className="edina_tm_modalbox">
           <button className="close-modal" onClick={toggleModalOne}>
-            <img src="/img/svg/cancel.png" alt="close icon" />
+            <Image src={cancelIcon} alt="close icon" />
           </button>
           {/* End close icon */}
 

@@ -1,7 +1,9 @@
+import Image from "next/image";
 import Modal from "react-modal";
 import ReactTooltip from "react-tooltip";
 import Slider from "react-slick";
 import Social from "../Social";
+import cancelIcon from "../../public/img/svg/cancel.svg";
 import portfolioData from "../../data/portfolio";
 import { useState } from "react";
 
@@ -96,7 +98,7 @@ const Portfolio = () => {
       >
         <div className="edina_tm_modalbox">
           <button className="close-modal" onClick={() => setIsOpen(false)}>
-            <img src="/img/svg/cancel.png" alt="close icon" />
+            <Image src={cancelIcon} alt="close icon" />
           </button>
           {/* End close icon */}
 
