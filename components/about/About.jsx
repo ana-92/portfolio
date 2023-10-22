@@ -39,10 +39,8 @@ const About = () => {
               <h3 className="title">Skills</h3>
               <p className="desc">
               </p>
-              <div className="wrapper">
-                <div className="dodo_progress">
-                  <Skills />
-                </div>
+              <div className="skills">
+                <Skills />
               </div>
               <div className="edina_tm_button">
                 <button
