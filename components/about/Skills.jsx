@@ -5,57 +5,57 @@ const skillsContent = [
     id: 1,
     name: "MongoDB",
     animDelay: "100",
-    iconImg: '/img/skills/mongo.svg'
+    iconImg: '/img/skills/mongo.png'
 
   },
   {
     id: 2,
     name: "Javascript",
     animDelay: "100",
-    iconImg: '/img/skills/js.svg'
+    iconImg: '/img/skills/js.png'
 
   },
   {
     id: 3,
     name: "React.js",
     animDelay: "100",
-    iconImg: '/img/skills/react.svg'
+    iconImg: '/img/skills/react.png'
   },
   {
     id: 4,
     name: "Node.js",
     animDelay: "100",
-    iconImg: '/img/skills/nodejs.svg'
+    iconImg: '/img/skills/nodejs.png'
   },
   {
     id: 5,
     name: "Graphql",
     animDelay: "100",
-    iconImg: '/img/skills/graphql.svg'
+    iconImg: '/img/skills/graphql.png'
   },
   {
     id: 6,
     name: "AWS",
     animDelay: "100",
-    iconImg: '/img/skills/aws.svg'
+    iconImg: '/img/skills/aws.png'
   },
   {
     id: 7,
     name: "Docker",
     animDelay: "100",
-    iconImg: '/img/skills/docker.svg'
+    iconImg: '/img/skills/docker.png'
   },
   {
     id: 8,
     name: "Cypress",
     animDelay: "100",
-    iconImg: '/img/skills/cypress.svg'
+    iconImg: '/img/skills/cypress.png'
   },
   {
     id: 8,
     name: "Next.js",
     animDelay: "100",
-    iconImg: '/img/skills/next.svg'
+    iconImg: '/img/skills/nextjs.png'
   },
 ];
 
