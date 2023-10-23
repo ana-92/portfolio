@@ -4,11 +4,11 @@ import awsImg from "../../public/img/skills/aws.svg";
 import cypressImg from "../../public/img/skills/cypress.svg";
 import dockerImg from "../../public/img/skills/docker.svg";
 import graphqlImg from "../../public/img/skills/graphql.svg";
-import jsImg from "../../public/img/skills/js.svg";
 import mongoImg from "../../public/img/skills/mongo.svg";
 import nextImg from "../../public/img/skills/next.svg";
 import nodeImg from "../../public/img/skills/node.svg";
 import reactImg from "../../public/img/skills/react.svg";
+import tsImg from "../../public/img/skills/typescript.svg";
 
 const skillsContent = [
   {
@@ -20,9 +20,9 @@ const skillsContent = [
   },
   {
     id: 2,
-    name: "Javascript",
+    name: "Typescript",
     animDelay: "100",
-    iconImg: jsImg
+    iconImg: tsImg
 
   },
   {
