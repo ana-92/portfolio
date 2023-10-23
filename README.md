@@ -1,5 +1,6 @@
 # Ana's Personal Portfolio
 
+[![Deployment](https://github.com/ana-92/portfolio/actions/workflows/nextjs.yml/badge.svg?branch=dev)](https://github.com/ana-92/portfolio/actions/workflows/nextjs.yml)
 
 ## Overview
 
