@@ -1,14 +1,14 @@
 import Image from "next/image";
 import React from "react";
-import awsImg from "../../public/img/skills/aws.png";
-import cypressImg from "../../public/img/skills/cypress.png";
-import dockerImg from "../../public/img/skills/docker.png";
-import graphqlImg from "../../public/img/skills/graphql.png";
-import jsImg from "../../public/img/skills/js.png";
-import mongoImg from "../../public/img/skills/mongo.png";
-import nextImg from "../../public/img/skills/nextjs.png";
-import nodeImg from "../../public/img/skills/node.png";
-import reactImg from "../../public/img/skills/react.png";
+import awsImg from "../../public/img/skills/aws.svg";
+import cypressImg from "../../public/img/skills/cypress.svg";
+import dockerImg from "../../public/img/skills/docker.svg";
+import graphqlImg from "../../public/img/skills/graphql.svg";
+import jsImg from "../../public/img/skills/js.svg";
+import mongoImg from "../../public/img/skills/mongo.svg";
+import nextImg from "../../public/img/skills/next.svg";
+import nodeImg from "../../public/img/skills/node.svg";
+import reactImg from "../../public/img/skills/react.svg";
 
 const skillsContent = [
   {
