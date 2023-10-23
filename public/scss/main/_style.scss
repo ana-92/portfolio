@@ -1522,12 +1522,12 @@ body.dark .loader_line:after {
   height: auto;
   clear: both;
   float: left;
-  padding: 120px 0px 120px 0px;
+  padding: 80px 0px 120px 0px;
   @media screen and (max-width: 991px) {
-    padding: 90px 0px 80px 0px;
+    padding: 70px 0px 80px 0px;
   }
   @media screen and (max-width: 575px) {
-    padding: 90px 0px 100px 0px;
+    padding: 70px 0px 100px 0px;
   }
   .my_carousel ul li .image {
     height: auto;
@@ -2060,9 +2060,9 @@ body.modal {
   clear: both;
   float: left;
   background-color: #f5f8fc;
-  padding: 120px 0px;
+  padding: 80px 0px;
   @media screen and (max-width: 991px) {
-    padding: 90px 0px;
+    padding: 70px 0px;
   }
   .icon {
     width: 55px;
