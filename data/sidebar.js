@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     icon: "testimonial",
-    itemName: "Testimonial",
+    itemName: "Testimonials",
     itemRoute: "#testimonial",
     activeClass: "",
   },
